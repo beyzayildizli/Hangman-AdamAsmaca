@@ -41,7 +41,7 @@ public class AdamAsmaca extends javax.swing.JFrame {
         String[] sozluk = {"YAZILIM", "KODLAMA", "BILGISAYAR", "LAPTOP",
             "MUHENDISLIK", "PROGRAM", "PROGRAMLAMA", "ALGORITMA",
             "INTERNET", "VIRUS", "DEGISKEN", "BELLEK", "DERLEYICI"};
-        int index = (int) (Math.random() * (8));
+        int index = (int) (Math.random() * (13));
         kelime = sozluk[index];
     }
 
