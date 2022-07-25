@@ -9,15 +9,8 @@ import java.awt.event.MouseEvent;
 import javax.swing.JButton;
 
 /**
- * @file yoklamaTakipSistemi
- * @description Bu proje, öğretmen ve öğrencilerin kayıt olup giriş yapabildiği;
- * öğretmenlerin yoklama bilgisi kaydede bildiği ve istediği öğrenciye ait
- * yoklama bilgisini görebildiği; öğrencilerin de kendilerine ait girilen
- * yoklama bilgisini gçrebildiği swing kullanılarak tasarlanmış bir yoklama
- * sistemidir.
- * @assignment Final Proje
- * @date 14.05.2022
- * @author @beyza.yildizli@stu.fsm.edu.tr
+ *
+ * @author beyzayildizli10@gmail.com
  */
 public class MyButton extends JButton {
 
