@@ -106,16 +106,6 @@ public class MyButton extends JButton {
                 }
                 renkDegis = false;
             }
-
-            /*public void mouseReleased(MouseEvent e) {
-                renkDegis = false;
-                // setBackground(colorOver);
-                /*if (over) {
-                    setBackground(colorOver);
-                } else {
-                   setBackground(color);
-                }
-            }*/
         });
     }
 
